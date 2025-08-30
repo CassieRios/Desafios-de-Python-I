@@ -10,16 +10,16 @@ O objetivo é **praticar lógica de programação, manipulação de listas, stri
 
 * **Exercícios cobertos**:
 
-1. [Par ou ímpar](#par-ou-ímpar)
-2. [Contagem de vogais](#contagem-de-vogais)
-3. [Tabuada de um número](#tabuada-de-um-número)
-4. [Maior número em uma lista](#maior-número-em-uma-lista)
-5. [Fatorial](#fatorial)
-6. [Palíndromos](#palíndromos)
-7. [Lista sem duplicados](#lista-sem-duplicados)
-8. [Números primos](#números-primos)
-9. [Saque em cédulas](#saque-em-cédulas)
-10. [Jogo da forca simplificado](#jogo-da-forca-simplificado)
+1. [Par ou ímpar]([Par ou ímpar](desafios_em_python_I.ipynb#par-ou-ímpar))
+2. [Contagem de vogais]([Par ou ímpar](desafios_em_python_I.ipynb#contagem-de-vogais)
+3. [Tabuada de um número](desafios_em_python_I.ipynb#tabuada-de-um-número)
+4. [Maior número em uma lista](desafios_em_python_I.ipynb#maior-número-em-uma-lista)
+5. [Fatorial](desafios_em_python_I.ipynb#fatorial)
+6. [Palíndromos](desafios_em_python_I.ipynb#palíndromos)
+7. [Lista sem duplicados](desafios_em_python_I.ipynb#lista-sem-duplicados)
+8. [Números primos](desafios_em_python_I.ipynb#números-primos)
+9. [Saque em cédulas](desafios_em_python_I.ipynb#saque-em-cédulas)
+10. [Jogo da forca simplificado](desafios_em_python_I.ipynb#jogo-da-forca-simplificado)
 
 Para cada exercício, o notebook inclui:
 
