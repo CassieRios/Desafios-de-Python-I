@@ -10,8 +10,8 @@ O objetivo é **praticar lógica de programação, manipulação de listas, stri
 
 * **Exercícios cobertos**:
 
-1. [Par ou ímpar]([Par ou ímpar](desafios_em_python_I.ipynb#par-ou-ímpar))
-2. [Contagem de vogais]([Par ou ímpar](desafios_em_python_I.ipynb#contagem-de-vogais)
+1. [Par ou ímpar](desafios_em_python_I.ipynb#par-ou-ímpar)
+2. [Contagem de vogais](desafios_em_python_I.ipynb#contagem-de-vogais)
 3. [Tabuada de um número](desafios_em_python_I.ipynb#tabuada-de-um-número)
 4. [Maior número em uma lista](desafios_em_python_I.ipynb#maior-número-em-uma-lista)
 5. [Fatorial](desafios_em_python_I.ipynb#fatorial)
