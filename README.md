@@ -1,33 +1,33 @@
 # 🐍 Desafios de Python
 
-Este repositório contém minhas soluções para diversos **desafios de programação em Python**, incluindo implementações próprias e versões refatoradas/mais eficientes fornecidas pelo ChatGPT.
+Este repositório contém soluções para uma série de **desafios de programação em Python**, voltados para iniciantes e intermediários. O objetivo é **praticar lógica, estruturas de controle, manipulação de listas e strings, funções recursivas e boas práticas de código**.
 
-O objetivo é **praticar lógica de programação, manipulação de listas, strings, laços, funções recursivas e estruturas de dados**, além de aprender boas práticas de Python.
+Para cada desafio, você encontrará:
+
+* A **pergunta original**
+* **Minha solução**
+* **Feedback sobre pontos fortes e fracos**
+* **Refatoração sugerida**
+* **Versão alternativa mais eficiente ou Pythonic**
+
+Este notebook é ideal para quem deseja **treinar Python de forma prática**, comparar abordagens diferentes e entender como tornar o código mais limpo e eficiente.
 
 ---
 
-## 📂 Conteúdo
-
-* **Exercícios cobertos**:
+## 📂 Conteúdo dos Exercícios
 
 1. [Par ou ímpar](desafios_em_python_notebook_I.ipynb#par-ou-ímpar)
 2. [Contagem de vogais](desafios_em_python_notebook_I.ipynb#contagem-de-vogais)
-3. [Tabuada formatada](desafios_em_python_notebook_I.ipynb#tabuada-formatada)
-4. [Maior número](desafios_em_python_notebook_I.ipynb#maior-número)
+3. [Tabuada de um número](desafios_em_python_notebook_I.ipynb#tabuada-de-um-número)
+4. [Maior número em uma lista](desafios_em_python_notebook_I.ipynb#maior-número-em-uma-lista)
 5. [Fatorial](desafios_em_python_notebook_I.ipynb#fatorial)
 6. [Palíndromos](desafios_em_python_notebook_I.ipynb#palíndromos)
 7. [Lista sem duplicados](desafios_em_python_notebook_I.ipynb#lista-sem-duplicados)
 8. [Números primos](desafios_em_python_notebook_I.ipynb#números-primos)
-9. [Caixa eletrônico](desafios_em_python_notebook_I.ipynb#caixa-eletrônico)
-10. [Jogo da forca](desafios_em_python_notebook_I.ipynb#jogo-da-forca)
+9. [Saque em cédulas](desafios_em_python_notebook_I.ipynb#saque-em-cédulas)
+10. [Jogo da forca simplificado](desafios_em_python_notebook_I.ipynb#jogo-da-forca-simplificado)
 
-Para cada exercício, o notebook inclui:
-
-* **Pergunta original**
-* **Minha solução**
-* **Feedback sobre pontos fortes e fracos**
-* **Refatoração sugerida**
-* **Forma alternativa mais eficiente ou Pythonic**
+> Cada link leva à célula do notebook correspondente, facilitando a navegação.
 
 ---
 
@@ -49,7 +49,8 @@ jupyter notebook
 
    * A descrição do desafio
    * Sua solução original
-   * Sugestões e alternativas de implementação
+   * Feedback e sugestões de refatoração
+   * Versões alternativas mais eficientes
 
 ---
 
@@ -68,6 +69,18 @@ Este projeto ajuda a treinar:
 * Laços (`for`, `while`)
 * Funções e recursão
 * Manipulação de strings e listas
-* Boas práticas de Python e eficiência de código
+* Boas práticas de Python
+* Eficiência de código e raciocínio lógico
 
-Se quiser, posso te entregar **uma versão completa do README já com os links prontos e âncoras ajustadas para cada exercício**, pronta para copiar direto no seu repositório. Quer que eu faça isso?
+---
+
+## 🤖 Suporte do ChatGPT
+
+Este notebook também se beneficiou do **ChatGPT (GPT-5 mini)** para:
+
+* Revisar e comentar as soluções originais
+* Sugerir refatorações e versões mais eficientes
+* Garantir boas práticas de código Python
+* Auxiliar na visualização e interpretação das soluções
+
+O ChatGPT ajudou como **assistente de programação**, fornecendo insights e alternativas, mas todas as soluções finais foram validadas pelo autor do repositório.
